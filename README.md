@@ -1,7 +1,7 @@
 # Predicting-Churn-for-Bank-Customers
 
 
-![image](https://user-images.githubusercontent.com/18030121/163380806-2c74c4ab-9f95-4483-bf77-06cf98d8422a.png)
+![image](https://vanessamiranda.github.io/images/Customerchurn/customerchurn.jpg)
 
 
 

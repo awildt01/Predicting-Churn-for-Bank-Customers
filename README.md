@@ -1,6 +1,4 @@
 # Predicting-Churn-for-Bank-Customers
-
-
 In diesem Projekt habe ich ein Klassifikationsproblem in dem Bereich Churn 
 durchlaufen lassen. Churn ist die Kundenabwanderung, das bedeutet, wenn
 der Kunde die Produkte oder Dienstleistungen eines Unternehmens nicht
